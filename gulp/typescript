@@ -1,0 +1,178 @@
+Script started on Mon May 22 00:25:31 2023
+[1m[7m%[27m[1m[0m                                                   ]2;xcastudent@Admins-MBP:~/Documents/sparrow-2.1.1-and-sparrow-1.7.1/sparrow-v2.1.1/gulp]1;..w-v2.1.1/gulp[0m[27m[24m[J[01;32m➜  [36mgulp[00m [K[?1h=[?2004hggulp[?1l>[?2004l
+]2;gulp]1;gulpzsh: command not found: gulp
+[1m[7m%[27m[1m[0m                                                   ]2;xcastudent@Admins-MBP:~/Documents/sparrow-2.1.1-and-sparrow-1.7.1/sparrow-v2.1.1/gulp]1;..w-v2.1.1/gulp[0m[27m[24m[J[01;31m➜  [36mgulp[00m [K[?1h=[?2004hbbuild[?1l>[?2004l
+]2;build]1;buildzsh: command not found: build
+[1m[7m%[27m[1m[0m                                                   ]2;xcastudent@Admins-MBP:~/Documents/sparrow-2.1.1-and-sparrow-1.7.1/sparrow-v2.1.1/gulp]1;..w-v2.1.1/gulp[0m[27m[24m[J[01;31m➜  [36mgulp[00m [K[?1h=[?2004hccd..[?1l>[?2004l
+]2;cd..]1;cd..zsh: command not found: cd..
+[1m[7m%[27m[1m[0m                                                   ]2;xcastudent@Admins-MBP:~/Documents/sparrow-2.1.1-and-sparrow-1.7.1/sparrow-v2.1.1/gulp]1;..w-v2.1.1/gulp[0m[27m[24m[J[01;31m➜  [36mgulp[00m [K[?1h=[?2004hccd ..[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                   ]2;xcastudent@Admins-MBP:~/Documents/sparrow-2.1.1-and-sparrow-1.7.1/sparrow-v2.1.1]1;..parrow-v2.1.1[0m[27m[24m[J[01;32m➜  [36msparrow-v2.1.1[00m [K[?1h=[?2004hcd .... buildgulp scriptls    gulpcd ..gulp code .gulp  npm i gulp-cli -g[11D           [12D[?1l>[?2004l
+]2;npm i]1;npmERROR: npm v9.1.3 is known not to run on Node.js
+v12.7.0. You'll need to upgrade to a newer Node.js
+version in order to use this version of npm. This
+version of npm supports the following node versions:
+`^14.17.0 || ^16.13.0 || >=18.0.0`. You can find the
+latest version at https://nodejs.org/.
+
+ERROR:
+/Users/xcastudent/.nvm/versions/node/v12.7.0/lib/node_modules/npm/lib/utils/exit-handler.js:22
+  const hasLoadedNpm = npm?.config.loaded
+                           ^
+
+SyntaxError: Unexpected token .
+[90m    at Module._compile (internal/modules/cjs/loader.js:720:22)[39m
+[90m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:788:10)[39m
+[90m    at Module.load (internal/modules/cjs/loader.js:643:32)[39m
+[90m    at Function.Module._load (internal/modules/cjs/loader.js:556:12)[39m
+[90m    at Module.require (internal/modules/cjs/loader.js:683:19)[39m
+[90m    at require (internal/modules/cjs/helpers.js:16:16)[39m
+    at module.exports (/Users/xcastudent/.nvm/versions/node/v12.7.0/lib/node_modules/[4mnpm[24m/lib/cli.js:76:23)
+    at Object.<anonymous> (/Users/xcastudent/.nvm/versions/node/v12.7.0/lib/node_modules/[4mnpm[24m/bin/npm-cli.js:2:25)
+[90m    at Module._compile (internal/modules/cjs/loader.js:777:30)[39m
+[90m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:788:10)[39m
+[1m[7m%[27m[1m[0m                                                   ]2;xcastudent@Admins-MBP:~/Documents/sparrow-2.1.1-and-sparrow-1.7.1/sparrow-v2.1.1]1;..parrow-v2.1.1[0m[27m[24m[J[01;31m➜  [36msparrow-v2.1.1[00m [K[?1h=[?2004hnpm icd .... buildgulp scriptls    gulpcd ..gulp code .gulp  npm i gulp-cli -g[17Dnv[2Cuse node     [?1l>[?2004l
+]2;nvm use node]1;nvmNow using node v16.20.0 (npm v8.19.4)
+[1m[7m%[27m[1m[0m                                                   ]2;xcastudent@Admins-MBP:~/Documents/sparrow-2.1.1-and-sparrow-1.7.1/sparrow-v2.1.1]1;..parrow-v2.1.1[0m[27m[24m[J[01;32m➜  [36msparrow-v2.1.1[00m [K[?1h=[?2004hnvm use node[12Dnp[2Ci       cd .... buildgulp scriptls    gulpcd ..gulp code .gulp  npm i gulp-cli -g[?1l>[?2004l
+]2;npm i gulp-cli -g]1;npm[?25l([100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree:lib: [7msill[0m [35midealTr[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree:lib: [32;40mtiming[0m [35mideal[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠹ idealTree:lib: [32;40mtiming[0m [35mideal[0m[K([107;97m#######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠋ idealTree:liftoff: [32;40mtiming[0m [35mi[0m[K([107;97m#######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠇ idealTree:extglob: [32;40mtiming[0m [35mi[0m[K([107;97m#######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠋ idealTree:extglob: [32;40mtiming[0m [35mi[0m[K([107;97m########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠋ idealTree:unset-value: [32;40mtimi[0m[K([107;97m########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠙ idealTree:unset-value: [32;40mtimi[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠦ idealTree: [32;40mtiming[0m [35midealTree[0m[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠼ reify:ansi-colors: [7msill[0m [35maud[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠼ reify:ansi-colors: [7msill[0m [35maud[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠼ reify:ansi-colors: [7msill[0m [35maud[0m[K([107;97m##############[0m[100;90m⠂⠂⠂⠂[0m) ⠇ reify:code-point-at: [32;40mtiming[0m[0m[K[K[?25h[37;40mnpm[0m [0m[30;43mWARN[0m [0m[35mdeprecated[0m source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated
+[0m[37;40mnpm[0m [0m[30;43mWARN[0m [0m[35mdeprecated[0m urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+[0m[37;40mnpm[0m [0m[30;43mWARN[0m [0m[35mdeprecated[0m resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+[0m[37;40mnpm[0m [0m[30;43mWARN[0m [0m[35mdeprecated[0m source-map-resolve@0.5.3: See https://github.com/lydell/source-map-resolve#deprecated
+[0m[?25l([107;97m##################[0m) ⠹ reify:object.assign: [32;40mtiming[0m[0m[K([107;97m##################[0m) ⠧ reify:es5-ext: [32;40mtiming[0m [35mreify[0m[K([107;97m##################[0m) ⠇ reify:es5-ext: [32;40mtiming[0m [35mreify[0m[K([107;97m##################[0m) ⠇ reify:es5-ext: [32;40mtiming[0m [35mreify[0m[K([107;97m##################[0m) ⠇ reify:es5-ext: [32;40mtiming[0m [35mreify[0m[K[K[?25h
+changed 268 packages, and audited 269 packages in 1s
+
+10 packages are looking for funding
+  run `npm fund` for details
+
+found [32m[1m0[22m[39m vulnerabilities
+[1m[7m%[27m[1m[0m                                                   ]2;xcastudent@Admins-MBP:~/Documents/sparrow-2.1.1-and-sparrow-1.7.1/sparrow-v2.1.1]1;..parrow-v2.1.1[0m[27m[24m[J[01;32m➜  [36msparrow-v2.1.1[00m [K[?1h=[?2004hnpm i gulp-cli -g[17Dnv[2Cuse node     [12Dnp[2Ci       cd .... buildgulp scriptgulp  buildcd..  ..npm inv[2Cuse node[12Dnp[2Ci gulp-cli -g[17Dnv[2Cuse node     [12Dnp[2Ci       [?1l>[?2004l
+]2;npm i]1;npm[?25l([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠸ idealTree: [32;40mtiming[0m [35midealTree[0m[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠇ idealTree: [32;40mtiming[0m [35midealTree[0m[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree: [32;40mtiming[0m [35midealTree[0m[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree: [32;40mtiming[0m [35midealTree[0m[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree: [32;40mtiming[0m [35midealTree[0m[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree: [32;40mtiming[0m [35midealTree[0m[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠙ idealTree: [32;40mtiming[0m [35midealTree[0m[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠴ idealTree: [32;40mtiming[0m [35midealTree[0m[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠇ idealTree: [32;40mtiming[0m [35midealTree[0m[0m[K[K[?25h
+up to date, audited 1478 packages in 1s
+
+89 packages are looking for funding
+  run `npm fund` for details
+
+[31m[1m42[22m[39m vulnerabilities (4 [33m[1mmoderate[22m[39m, 34 [31m[1mhigh[22m[39m, 4 [35m[1mcritical[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+[1m[7m%[27m[1m[0m                                                   ]2;xcastudent@Admins-MBP:~/Documents/sparrow-2.1.1-and-sparrow-1.7.1/sparrow-v2.1.1]1;..parrow-v2.1.1[0m[27m[24m[J[01;32m➜  [36msparrow-v2.1.1[00m [K[?1h=[?2004hnpm i gulp-cli -g[17Dnv[2Cuse node     [12Dnp[2Ci       cd .... buildgulp [?1l>[?2004l
+]2;gulp]1;gulp[[90m00:26:41[39m] Using gulpfile [35m~/Documents/sparrow-2.1.1-and-sparrow-1.7.1/sparrow-v2.1.1/gulpfile.js[39m
+[[90m00:26:41[39m] Starting '[36mdefault[39m'...
+[[90m00:26:41[39m] Starting '[36mclean[39m'...
+[[90m00:26:41[39m] Finished '[36mclean[39m' after [35m12 ms[39m
+[[90m00:26:41[39m] Starting '[36mcompile[39m'...
+[[90m00:26:41[39m] Starting '[36mstyle[39m'...
+[[90m00:26:41[39m] Starting '[36mscript[39m'...
+[[90m00:26:41[39m] Starting '[36mvendor[39m'...
+[[90m00:26:41[39m] Starting '[36mvendor:clean[39m'...
+[[90m00:26:41[39m] Finished '[36mvendor:clean[39m' after [35m359 ms[39m
+[[90m00:26:41[39m] Starting '[36mvendor:move[39m'...
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+[[90m00:26:44[39m] Finished '[36mvendor:move[39m' after [35m2.41 s[39m
+[[90m00:26:44[39m] Finished '[36mvendor[39m' after [35m2.79 s[39m
+[[90m00:26:45[39m] Finished '[36mscript[39m' after [35m4 s[39m
+[[90m00:26:45[39m] Finished '[36mstyle[39m' after [35m4 s[39m
+[[90m00:26:45[39m] Finished '[36mcompile[39m' after [35m4 s[39m
+[[90m00:26:45[39m] Starting '[36mwatch[39m'...
+[[34mBrowsersync[39m] [1mAccess URLs:[22m
+[90m --------------------------------------[39m
+       Local: [35mhttp://localhost:3000[39m
+    External: [35mhttp://192.168.1.111:3000[39m
+[90m --------------------------------------[39m
+          UI: [35mhttp://localhost:3001[39m
+ UI External: [35mhttp://localhost:3001[39m
+[90m --------------------------------------[39m
+[[34mBrowsersync[39m] Serving files from: [35mpublic[39m
+^C
+[1m[7m%[27m[1m[0m                                                   ]2;xcastudent@Admins-MBP:~/Documents/sparrow-2.1.1-and-sparrow-1.7.1/sparrow-v2.1.1]1;..parrow-v2.1.1[0m[27m[24m[J[01;31m➜  [36msparrow-v2.1.1[00m [K[?1h=[?2004hgulp[?1l>[?2004l
+]2;gulp]1;gulp[[90m00:39:02[39m] Using gulpfile [35m~/Documents/sparrow-2.1.1-and-sparrow-1.7.1/sparrow-v2.1.1/gulpfile.js[39m
+[[90m00:39:02[39m] Starting '[36mdefault[39m'...
+[[90m00:39:02[39m] Starting '[36mclean[39m'...
+[[90m00:39:02[39m] Finished '[36mclean[39m' after [35m13 ms[39m
+[[90m00:39:02[39m] Starting '[36mcompile[39m'...
+[[90m00:39:02[39m] Starting '[36mstyle[39m'...
+[[90m00:39:02[39m] Starting '[36mscript[39m'...
+[[90m00:39:02[39m] Starting '[36mvendor[39m'...
+[[90m00:39:02[39m] Starting '[36mvendor:clean[39m'...
+[[90m00:39:03[39m] Finished '[36mvendor:clean[39m' after [35m431 ms[39m
+[[90m00:39:03[39m] Starting '[36mvendor:move[39m'...
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+[[90m00:39:05[39m] Finished '[36mvendor:move[39m' after [35m2.44 s[39m
+[[90m00:39:05[39m] Finished '[36mvendor[39m' after [35m2.9 s[39m
+[[90m00:39:07[39m] Finished '[36mscript[39m' after [35m4.19 s[39m
+[[90m00:39:07[39m] Finished '[36mstyle[39m' after [35m4.19 s[39m
+[[90m00:39:07[39m] Finished '[36mcompile[39m' after [35m4.19 s[39m
+[[90m00:39:07[39m] Starting '[36mwatch[39m'...
+[[34mBrowsersync[39m] [1mAccess URLs:[22m
+[90m --------------------------------------[39m
+       Local: [35mhttp://localhost:3000[39m
+    External: [35mhttp://192.168.1.111:3000[39m
+[90m --------------------------------------[39m
+          UI: [35mhttp://localhost:3001[39m
+ UI External: [35mhttp://localhost:3001[39m
+[90m --------------------------------------[39m
+[[34mBrowsersync[39m] Serving files from: [35mpublic[39m
+^C
+[1m[7m%[27m[1m[0m                                                   ]2;xcastudent@Admins-MBP:~/Documents/sparrow-2.1.1-and-sparrow-1.7.1/sparrow-v2.1.1]1;..parrow-v2.1.1[0m[27m[24m[J[01;31m➜  [36msparrow-v2.1.1[00m [K[?1h=[?2004hgulpnpm igulp [?1l>[?2004l
+]2;gulp]1;gulp[[90m00:51:03[39m] Using gulpfile [35m~/Documents/sparrow-2.1.1-and-sparrow-1.7.1/sparrow-v2.1.1/gulpfile.js[39m
+[[90m00:51:03[39m] Starting '[36mdefault[39m'...
+[[90m00:51:03[39m] Starting '[36mclean[39m'...
+[[90m00:51:03[39m] Finished '[36mclean[39m' after [35m11 ms[39m
+[[90m00:51:03[39m] Starting '[36mcompile[39m'...
+[[90m00:51:03[39m] Starting '[36mstyle[39m'...
+[[90m00:51:03[39m] Starting '[36mscript[39m'...
+[[90m00:51:03[39m] Starting '[36mvendor[39m'...
+[[90m00:51:03[39m] Starting '[36mvendor:clean[39m'...
+[[90m00:51:04[39m] Finished '[36mvendor:clean[39m' after [35m444 ms[39m
+[[90m00:51:04[39m] Starting '[36mvendor:move[39m'...
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+[[90m00:51:06[39m] Finished '[36mvendor:move[39m' after [35m2.41 s[39m
+[[90m00:51:06[39m] Finished '[36mvendor[39m' after [35m2.87 s[39m
+[[90m00:51:07[39m] Finished '[36mstyle[39m' after [35m4.22 s[39m
+[[90m00:51:07[39m] Finished '[36mscript[39m' after [35m4.22 s[39m
+[[90m00:51:07[39m] Finished '[36mcompile[39m' after [35m4.22 s[39m
+[[90m00:51:07[39m] Starting '[36mwatch[39m'...
+[[34mBrowsersync[39m] [1mAccess URLs:[22m
+[90m --------------------------------------[39m
+       Local: [35mhttp://localhost:3000[39m
+    External: [35mhttp://192.168.1.111:3000[39m
+[90m --------------------------------------[39m
+          UI: [35mhttp://localhost:3001[39m
+ UI External: [35mhttp://localhost:3001[39m
+[90m --------------------------------------[39m
+[[34mBrowsersync[39m] Serving files from: [35mpublic[39m
+[[90m01:00:42[39m] Starting '[36mupdating[39m'...
+[[90m01:00:42[39m] Finished '[36mupdating[39m' after [35m539 μs[39m
+[[34mBrowsersync[39m] [36mReloading Browsers...[39m
+[[90m01:06:06[39m] Starting '[36mupdating[39m'...
+[[90m01:06:06[39m] Finished '[36mupdating[39m' after [35m691 μs[39m
+[[34mBrowsersync[39m] [36mReloading Browsers...[39m
+[[90m01:06:17[39m] Starting '[36mupdating[39m'...
+[[90m01:06:17[39m] Finished '[36mupdating[39m' after [35m573 μs[39m
+[[34mBrowsersync[39m] [36mReloading Browsers...[39m
+[[90m14:21:32[39m] Starting '[36mupdating[39m'...
+[[90m14:21:32[39m] Finished '[36mupdating[39m' after [35m710 μs[39m
+[[34mBrowsersync[39m] [36mReloading Browsers...[39m
+[[90m14:27:56[39m] Starting '[36mupdating[39m'...
+[[90m14:27:56[39m] Finished '[36mupdating[39m' after [35m763 μs[39m
+[[34mBrowsersync[39m] [36mReloading Browsers...[39m

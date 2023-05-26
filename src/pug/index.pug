@@ -1,0 +1,51 @@
+//- extends layouts/LayoutTheme
+//- include ./mixins/homes/Showcase.pug
+
+//- prepend styles
+//-   link(href=`${CWD}vendors/swiper/swiper-bundle.min.css`, rel='stylesheet')
+
+//- prepend scripts
+//-   script(src=`${CWD}vendors/isotope-layout/isotope.pkgd.min.js`) 
+//-   script(src=`${CWD}vendors/isotope-packery/packery-mode.pkgd.min.js`) 
+//-   script(src=`${CWD}vendors/rellax/rellax.min.js`) 
+
+//- block beforeMainContent
+//-   +FancyNav
+
+//- append variables
+//-   -
+//-     var showcaseItems = {
+//-       homes: ['default', 'bigcartel', 'cafe', 'bicycle', 'digital', 'ecommerce', 'event', 'interior', 'landing', 'promotion', 'software', 'studio'],
+//-       pages: ['404', 'about', 'blog', 'cart', 'casestudy', 'coming-soon', 'contact', 'split-static', 'split-youtube', 'portfolio', 'profile', 'rtl', 'services', 'shop', 'signin', 'signup', 'blog-single', 'product-single'],
+//-     };
+
+//- append mainContent
+//-   +Showcase
+
+extends layouts/LayoutTheme
+include ./mixins/homes/Bicycle
+include ./mixins/homes/Default
+
+prepend styles
+  link(href=`${CWD}vendors/swiper/swiper-bundle.min.css`, rel='stylesheet')
+
+prepend scripts
+  script(src=`${CWD}vendors/swiper/swiper-bundle.min.js`)
+  script(src=`${CWD}vendors/rellax/rellax.min.js`)
+  script(src=`${CWD}vendors/bigpicture/BigPicture.js`)  
+  script(src=`${CWD}vendors/progressbar/progressbar.min.js`)
+  script(src=`${CWD}vendors/isotope-layout/isotope.pkgd.min.js`) 
+  script(src=`${CWD}vendors/isotope-packery/packery-mode.pkgd.min.js`)   
+
+
+append mainContent
+  +DefaultHeader 
+  //- +BicycleHeader
+  +BicycleAbout
+  +DefaultVideo
+  +DefaultMembers
+  //- +BicycleCta
+  //- +BicycleFeatures
+  //- +BicycleFeatures1
+  //- +BicycleProducts 
+  +BicycleSignUp
